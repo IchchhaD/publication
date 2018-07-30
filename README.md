@@ -1,2 +1,1 @@
-# publication
-Hello People
+Publications
